@@ -5,7 +5,7 @@ This computer exercise explored the two ways to code using VDHL: behavioral and 
 
 #Decoder_Structural Simulation Results and Analysis
 
-![Structural](https://raw2.github.com/jrecheverry/ECE281_CE1/master/testbench_waveform.PNG)
+![Structural](https://raw2.github.com/jrecheverry/ECE281_CE2/master/structural_testbench.png)
 
 
 #Decoder_Behavioral Simulation Results and Analysis
