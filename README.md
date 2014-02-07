@@ -10,7 +10,7 @@ This computer exercise explored the two ways to code using VDHL: behavioral and 
 
 #Decoder_Behavioral Simulation Results and Analysis
 
-![Behavioral](https://raw2.github.com/jrecheverry/ECE281_CE1/master/testbench_waveform.PNG)
+![Behavioral](https://raw2.github.com/jrecheverry/ECE281_CE2/master/behavioral_testbench_pic.PNG)
 
 show that both of these screen shots show the same functionality, however, the structural testbench was eaiser to write because it incorporated all of the functions of the circuit into a few lines of code instead of writing out a truth table for the entire testbench.
 
